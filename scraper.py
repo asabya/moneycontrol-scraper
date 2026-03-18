@@ -30,7 +30,7 @@ SECTIONS = {
     "https://www.moneycontrol.com/news/business/startup/": "startup",
     "https://www.moneycontrol.com/news/business/real-estate/": "real-estate",
     "https://www.moneycontrol.com/news/business/markets/": "markets",
-    "https://www.moneycontrol.com/personal-finance/banking/": "banking",
+    "https://www.moneycontrol.com/banking/": "banking",
     "https://www.moneycontrol.com/news/business/cryptocurrency/": "crypto",
 }
 
